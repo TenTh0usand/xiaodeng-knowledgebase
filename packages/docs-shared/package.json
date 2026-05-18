@@ -1,0 +1,13 @@
+{
+  "name": "@xiaodeng/docs-shared",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    "./slugify": "./src/slugify.ts",
+    "./theme": "./src/theme.ts",
+    "./config": "./src/create-vitepress-config.ts",
+    "./sidebar": "./src/sidebar/awesome.ts",
+    "./i18n": "./src/i18n/locales.ts"
+  }
+}

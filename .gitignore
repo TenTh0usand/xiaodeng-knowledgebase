@@ -1,0 +1,9 @@
+node_modules
+.pnpm-store
+.output
+.preview.log
+.preview.err.log
+.DS_Store
+sites/*/dist
+sites/*/docs/.vitepress/dist
+sites/*/docs/.vitepress/cache
