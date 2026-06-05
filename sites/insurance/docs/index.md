@@ -2,43 +2,40 @@
 layout: home
 
 hero:
-  name: Insurance English Glossary
-  text: Practical insurance terms for internship work
-  tagline: 英文关键词、中文含义、理解方式和真实使用场景，一站式整理。
+  name: 保险双核实习库
+  text: 核保、核赔、条款和案件审核复盘
+  tagline: 这是我自己看的泰康保险实习笔记。重点不是背英文，而是把条款、客户需求、公司经营逻辑和双核岗位动作串起来。
   actions:
     - theme: brand
-      text: Start Learning
-      link: /glossary/fundamentals
+      text: 看双核重点
+      link: /glossary/underwriting-claims
     - theme: alt
-      text: Quick Review
-      link: /quick-review
+      text: 条款对照
+      link: /claims-notes/taikang-clauses
 
 features:
-  - title: 170+ Keywords
-    details: Covers policy roles, life insurance, health insurance, retirement, underwriting, claims, servicing, actuarial work, sales and compliance.
-  - title: Scenario Based
-    details: Each term includes where it appears in product training, policy administration, claims, customer service, reporting or internal communication.
-  - title: Internship Friendly
-    details: Organized around the language you are likely to hear in an insurance company such as Taikang.
+  - title: 核保
+    details: 看投保前的风险能不能进来，健康、职业、财务、告知和特别约定怎么影响承保结果。
+  - title: 核赔
+    details: 看出险后的事故能不能赔、赔多少、证据够不够，重点落在责任、材料、费用、异常点和理算。
+  - title: 泰康条款
+    details: 用泰康官方公开条款和服务说明做对照，帮助我把手写笔记落到真实合同语言上。
 ---
 
-<span class="term-count">Built for insurance internship onboarding</span>
+<span class="term-count">个人复盘用，不写公开身份信息</span>
 
-## How To Use This Site
+## 这个库怎么用
 
-Start from **Core Concepts** if you are new to insurance contracts. If you are already working with product, customer service or claims materials, jump directly to the matching glossary page.
+先看 **核保与核赔**，建立双核岗位的主线。再看 **泰康官方条款对照**，把医疗险、重疾险、寿险、年金、健保通这些内容落到条款结构上。最后回到手写笔记逐页复盘，把实习中听到的词和系统动作串起来。
 
-The suggested learning path is:
+我自己复习时按这个顺序看：
 
-1. Core Concepts
-2. Products & Coverage
-3. Health, Retirement & Care
-4. Underwriting & Claims
-5. Policy Servicing
-6. Actuarial, Finance & Risk
-7. Sales, Channel & Compliance
-8. Common Abbreviations
+1. 基础概念：谁是投保人、被保险人、受益人，公司承担的是什么责任。
+2. 险种与责任：客户为什么买，公司为什么卖，条款怎么限制边界。
+3. 核保：投保前怎么判断风险，健康告知和核保结论怎么影响后续理赔。
+4. 核赔：出险后怎么立案、审核、照会、理算、赔付或拒付。
+5. 泰康条款：把官方条款中的等待期、责任免除、医院范围、理赔材料逐条吃透。
 
-::: tip Internship habit
-When you meet an unfamiliar English term, ask three questions: **Who is involved? What risk or money flow does it describe? Which team uses it?**
+::: tip 复习习惯
+每看到一个概念，都问三件事：客户为什么关心它？公司为什么要这样设计？我在核保或核赔系统里要检查哪个字段、哪份材料、哪个时间点？
 :::

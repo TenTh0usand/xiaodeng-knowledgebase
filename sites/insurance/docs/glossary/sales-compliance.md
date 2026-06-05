@@ -1,46 +1,42 @@
-# Sales, Channel & Compliance
+# 销售合规
 
-These terms are common in distribution, customer communication, compliance review and business reporting.
+销售合规看起来离核保核赔远，其实很多理赔争议都从销售端开始：客户以为自己买到了某种保障，公司条款写的是另一种责任，中间还可能有健康告知、适当性、说明义务和销售误导问题。
 
-| English Term | 中文含义 | How To Understand | Typical Usage |
+## 销售端和双核的关系
+
+| 环节 | 客户关心 | 公司关心 | 我工作时怎么看 |
 |---|---|---|---|
-| Distribution Channel | 销售渠道 | The route through which insurance is sold. | Channel strategy and reporting. |
-| Agency Channel | 个险代理人渠道 | Sales through individual agents. | Life insurance retail distribution. |
-| Bancassurance | 银保渠道 | Insurance sold through banks. | Savings products and retirement planning. |
-| Broker | 保险经纪人 | Intermediary representing customer interests. | Commercial and high-net-worth insurance. |
-| Agent | 保险代理人 | Intermediary authorized to sell insurer products. | Individual insurance sales. |
-| Direct Sales | 直销 | Selling directly without intermediaries. | Online, call center, company-owned channels. |
-| Telemarketing | 电话销售 | Selling through phone calls. | Short-term products and customer campaigns. |
-| Online Insurance | 互联网保险 | Insurance sold through digital platforms. | E-commerce and digital operations. |
-| Lead | 销售线索 | Potential customer information. | Marketing campaigns and CRM. |
-| Prospect | 潜在客户 | A potential buyer being followed up. | Sales pipeline. |
-| Needs Analysis | 需求分析 | Identifying customer protection and financial needs. | Consultative selling. |
-| Financial Needs Analysis | 财务需求分析 | Matching insurance to income, assets, family and goals. | Life insurance planning. |
-| Suitability | 适当性 | Product must fit customer needs, risk tolerance and capacity. | Compliance review. |
-| Risk Tolerance | 风险承受能力 | Customer's ability and willingness to bear investment or product risk. | Unit-linked and savings products. |
-| Product Disclosure | 产品信息披露 | Providing clear product information and risks. | Sales compliance and customer protection. |
-| Sales Illustration | 利益演示 | Projection of policy benefits under assumptions. | Annuity, participating, universal life sales. |
-| Guaranteed Benefit | 保证利益 | Benefit contractually guaranteed. | Product comparison and compliance wording. |
-| Non-Guaranteed Benefit | 非保证利益 | Benefit depending on future performance or declaration. | Dividend and universal life explanation. |
-| Commission | 佣金 | Compensation paid to sales intermediaries. | Channel cost and incentive management. |
-| First-Year Commission | 首年佣金 | Commission paid on first-year premium. | Agent compensation. |
-| Renewal Commission | 续期佣金 | Commission paid on renewal premiums. | Agent retention incentive. |
-| Persistency Bonus | 继续率奖金 | Incentive tied to policy retention. | Sales quality management. |
-| Key Performance Indicator | 关键绩效指标 | Metric used to evaluate performance. | Sales, service and operations management. |
-| Conversion Rate | 转化率 | Share of leads becoming customers. | Digital sales and campaign analysis. |
-| Customer Relationship Management | 客户关系管理 | System or practice for managing customer interactions. | Sales follow-up and service records. |
-| Know Your Customer | 了解你的客户 | Process to verify and understand customer identity and profile. | Compliance and anti-money laundering. |
-| Anti-Money Laundering | 反洗钱 | Controls to prevent laundering and illicit finance. | Customer onboarding and transaction monitoring. |
-| Customer Due Diligence | 客户尽职调查 | Identity and risk checks on customers. | AML and compliance workflows. |
-| Sanctions Screening | 制裁名单筛查 | Checking customers against restricted lists. | Compliance review. |
-| Data Privacy | 数据隐私 | Protection of personal information. | Customer data handling and system access. |
-| Personal Information Protection | 个人信息保护 | Rules and controls for personal data collection and use. | Compliance training and privacy notices. |
-| Consent | 授权同意 | Customer permission for data use or transaction. | Application, health data, marketing. |
-| Mis-selling | 销售误导 | Selling with misleading, unsuitable or incomplete information. | Complaint handling and regulatory risk. |
-| Replacement Risk | 替换风险 | Risk that a new policy harms customer interests by replacing old coverage. | Sales compliance review. |
-| Complaint | 投诉 | Customer expression of dissatisfaction. | Service, compliance and regulatory reporting. |
-| Regulatory Filing | 监管报备 | Submission of required information to regulators. | Product approval and compliance. |
-| Internal Control | 内部控制 | Processes that reduce operational and compliance risk. | Audit and governance. |
-| Audit Trail | 审计轨迹 | Records showing who did what and when. | System compliance and investigations. |
-| Training Certification | 培训认证 | Proof that staff or agents completed required training. | Sales qualification management. |
-| Code of Conduct | 行为准则 | Rules for professional behavior. | Employee and agent compliance. |
+| 产品说明 | 这个保险到底保什么。 | 销售话术不能超出条款。 | 争议案件要看条款、投保提示、回访和销售留痕。 |
+| 健康告知 | 要不要说、说到什么程度。 | 告知真实是核保基础。 | 未如实告知争议要看问询是否明确、客户回答和病史证据。 |
+| 适当性 | 产品适不适合客户。 | 防止错配和投诉。 | 高龄、低收入、高保费、复杂产品要注意销售风险。 |
+| 信息披露 | 等待期、免责、费用、收益是否说明。 | 合规和客户权益保护。 | 拒赔或部分赔付时，客户是否已被充分提示可能影响争议处理。 |
+| 回访 | 确认客户理解并自愿购买。 | 留下合规证据。 | 查回访记录能帮助判断销售争议。 |
+
+## 常见合规概念
+
+| 概念 | 是干什么的 | 为什么重要 |
+|---|---|---|
+| 适当性 | 产品要适合客户需求、风险承受能力和缴费能力。 | 防止为了成交而卖错产品。 |
+| 产品信息披露 | 清楚说明责任、免责、等待期、费用、收益不确定性。 | 客户后续理赔预期来自购买时的理解。 |
+| 利益演示 | 对年金、分红、万能等利益进行演示。 | 保证利益和非保证利益不能混淆。 |
+| 销售误导 | 用不准确、夸大或遗漏的信息促成购买。 | 会引发投诉、退保、理赔争议。 |
+| 替换风险 | 用新保单替换旧保单可能损害客户利益。 | 旧保单等待期、现金价值、既往病史可能影响新保障。 |
+| 客户尽调 | 了解客户身份、资金来源和风险。 | 反洗钱和合规基础。 |
+| 个人信息保护 | 合法收集、使用和保存客户信息。 | 核保核赔接触大量健康和身份信息，必须谨慎。 |
+
+## 理赔争议常见来源
+
+| 争议 | 可能原因 | 我怎么理解 |
+|---|---|---|
+| 客户以为医疗险什么病都报 | 销售时没有讲免赔额、医院范围、免责和合理必要。 | 理赔解释要回到条款，同时注意销售留痕。 |
+| 客户以为重疾险确诊就赔 | 没讲疾病定义。 | 要解释“病名”和“条款定义”不同。 |
+| 客户说投保时已经告诉代理人 | 健康告知流程和销售沟通不一致。 | 看投保告知页面、录音录像、回访、病史证据。 |
+| 客户短期出险被拒赔 | 等待期或既往症争议。 | 要把生效日、首次症状、首次就诊、确诊日排清楚。 |
+| 客户对收益不满 | 把非保证利益当保证利益。 | 看利益演示、产品说明和客户签字确认。 |
+
+## 我自己的工作提醒
+
+- 不要把销售话术当条款。
+- 不要把客户口述直接当事实，也不要默认客户说谎。
+- 健康告知争议要看“问了什么、答了什么、真实病史是什么、会不会影响承保”。
+- 理赔解释要尽量让客户听懂，但内部判断必须能被条款和证据支撑。

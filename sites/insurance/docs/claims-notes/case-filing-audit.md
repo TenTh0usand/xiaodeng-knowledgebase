@@ -1,16 +1,16 @@
-# Case Filing To Audit
+# 立案到审核
 
 这一页整理扫描笔记第 15-19 页：出险后如何从报案进入立案，再进入审核、照会、复核和理算。
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 15</p><img src="https://pic.60004000.xyz/2026/06/5d55c6fbbdbc112f6e901c4f7457b373.png" alt="Scanned note page 15"></div>
-  <div class="source-image"><p>Source: scanned note page 16</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="Scanned note page 16"></div>
-  <div class="source-image"><p>Source: scanned note page 17</p><img src="https://pic.60004000.xyz/2026/06/7f924372fc35b1f1ecb0897a9dbc0f6f.png" alt="Scanned note page 17"></div>
-  <div class="source-image"><p>Source: scanned note page 18</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="Scanned note page 18"></div>
-  <div class="source-image"><p>Source: scanned note page 19</p><img src="https://pic.60004000.xyz/2026/06/b99691d1360f05804792200c275e9ffc.png" alt="Scanned note page 19"></div>
+  <div class="source-image"><p>原始手写笔记第 15 页</p><img src="https://pic.60004000.xyz/2026/06/5d55c6fbbdbc112f6e901c4f7457b373.png" alt="原始手写笔记第 15 页"></div>
+  <div class="source-image"><p>原始手写笔记第 16 页</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="原始手写笔记第 16 页"></div>
+  <div class="source-image"><p>原始手写笔记第 17 页</p><img src="https://pic.60004000.xyz/2026/06/7f924372fc35b1f1ecb0897a9dbc0f6f.png" alt="原始手写笔记第 17 页"></div>
+  <div class="source-image"><p>原始手写笔记第 18 页</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="原始手写笔记第 18 页"></div>
+  <div class="source-image"><p>原始手写笔记第 19 页</p><img src="https://pic.60004000.xyz/2026/06/b99691d1360f05804792200c275e9ffc.png" alt="原始手写笔记第 19 页"></div>
 </div>
 
-## From Policy Service To Claim
+## 从保全到理赔
 
 ```text
 回执确认
@@ -26,29 +26,29 @@
 ```
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 15</p><img src="https://pic.60004000.xyz/2026/06/5d55c6fbbdbc112f6e901c4f7457b373.png" alt="Scanned note page 15"></div>
-  <div class="source-image"><p>Source: scanned note page 16</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="Scanned note page 16"></div>
-  <div class="source-image"><p>Source: scanned note page 17</p><img src="https://pic.60004000.xyz/2026/06/7f924372fc35b1f1ecb0897a9dbc0f6f.png" alt="Scanned note page 17"></div>
+  <div class="source-image"><p>原始手写笔记第 15 页</p><img src="https://pic.60004000.xyz/2026/06/5d55c6fbbdbc112f6e901c4f7457b373.png" alt="原始手写笔记第 15 页"></div>
+  <div class="source-image"><p>原始手写笔记第 16 页</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="原始手写笔记第 16 页"></div>
+  <div class="source-image"><p>原始手写笔记第 17 页</p><img src="https://pic.60004000.xyz/2026/06/7f924372fc35b1f1ecb0897a9dbc0f6f.png" alt="原始手写笔记第 17 页"></div>
 </div>
 
-## What Is Case Filing?
+## 立案是什么
 
 立案不是最终赔付结论，而是把一个“客户说自己出险了”的事实变成系统里可处理的案件。
 
 立案时要确认四组信息：
 
-| Group | What To Confirm | Examples |
+| 组别 | 要确认什么 | 例子 |
 |---|---|---|
-| Person | 人是谁 | 投保人、被保险人、申请人、受益人、代理人或委托人。 |
-| Policy | 保单是什么状态 | 保单号、险种、主附险、有效状态、缴费状态、等待期、除外。 |
-| Event | 发生了什么 | 疾病、意外、住院、手术、门诊、身故、全残。 |
-| Evidence | 材料够不够 | 申请书、身份证件、病历、诊断证明、发票、费用清单、医保结算单。 |
+| 人 | 人是谁 | 投保人、被保险人、申请人、受益人、代理人或委托人。 |
+| 保单 | 保单是什么状态 | 保单号、险种、主附险、有效状态、缴费状态、等待期、除外。 |
+| 事故 | 发生了什么 | 疾病、意外、住院、手术、门诊、身故、全残。 |
+| 证据 | 材料够不够 | 申请书、身份证件、病历、诊断证明、发票、费用清单、医保结算单。 |
 
-<div class="source-image"><p>Source: scanned note page 17</p><img src="https://pic.60004000.xyz/2026/06/7f924372fc35b1f1ecb0897a9dbc0f6f.png" alt="Scanned note page 17"></div>
+<div class="source-image"><p>原始手写笔记第 17 页</p><img src="https://pic.60004000.xyz/2026/06/7f924372fc35b1f1ecb0897a9dbc0f6f.png" alt="原始手写笔记第 17 页"></div>
 
-## Claim Entry Sources
+## 案件入口
 
-| Source | Typical Situation | Risk Point |
+| 来源 | 典型情况 | 风险点 |
 |---|---|---|
 | Customer self-service | 客户在 App/公众号上传材料。 | 影像不清、材料缺失、金额和病历不对应。 |
 | Agent assisted | 代理人协助客户报案或提交。 | 要确认客户真实授权和材料原件来源。 |
@@ -57,13 +57,13 @@
 | Branch counter | 客户到柜面提交材料。 | 要核验原件、复印件和签名。 |
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 17</p><img src="https://pic.60004000.xyz/2026/06/7f924372fc35b1f1ecb0897a9dbc0f6f.png" alt="Scanned note page 17"></div>
-  <div class="source-image"><p>Source: scanned note page 18</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="Scanned note page 18"></div>
+  <div class="source-image"><p>原始手写笔记第 17 页</p><img src="https://pic.60004000.xyz/2026/06/7f924372fc35b1f1ecb0897a9dbc0f6f.png" alt="原始手写笔记第 17 页"></div>
+  <div class="source-image"><p>原始手写笔记第 18 页</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="原始手写笔记第 18 页"></div>
 </div>
 
-## Filing Decision
+## 立案处理结果
 
-| Result | 中文 | Meaning |
+| 结果 | 中文 | 含义 |
 |---|---|---|
 | Accept filing | 正常立案 | 基本信息和最低材料满足进入审核条件。 |
 | Request supplement | 补件 | 材料不足，要求客户或医院补充。 |
@@ -71,13 +71,13 @@
 | Split case | 拆分案件 | 不同责任、不同事故或不同保单需要分别处理。 |
 | Reject filing / no claim setup | 不予立案或不进入正式理赔 | 明显无合同、无事故或不符合申请基础条件。 |
 
-<div class="source-image"><p>Source: scanned note page 17</p><img src="https://pic.60004000.xyz/2026/06/7f924372fc35b1f1ecb0897a9dbc0f6f.png" alt="Scanned note page 17"></div>
+<div class="source-image"><p>原始手写笔记第 17 页</p><img src="https://pic.60004000.xyz/2026/06/7f924372fc35b1f1ecb0897a9dbc0f6f.png" alt="原始手写笔记第 17 页"></div>
 
-## Audit Logic
+## 审核逻辑
 
 审核阶段可以用“四看一算”：
 
-| Step | Question | Typical Evidence |
+| 步骤 | 问题 | 典型证据 |
 |---|---|---|
 | 看合同 | 保单是否有效？责任是否存在？ | 保单、条款、批单、核保结论、保全记录。 |
 | 看时间 | 出险是否在保险期间、等待期后？ | 生效日、出险日、入院日、诊断日、签收日。 |
@@ -86,11 +86,11 @@
 | 算金额 | 应赔多少？ | 免赔额、比例、限额、已报销金额、剩余额度。 |
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 16</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="Scanned note page 16"></div>
-  <div class="source-image"><p>Source: scanned note page 19</p><img src="https://pic.60004000.xyz/2026/06/b99691d1360f05804792200c275e9ffc.png" alt="Scanned note page 19"></div>
+  <div class="source-image"><p>原始手写笔记第 16 页</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="原始手写笔记第 16 页"></div>
+  <div class="source-image"><p>原始手写笔记第 19 页</p><img src="https://pic.60004000.xyz/2026/06/b99691d1360f05804792200c275e9ffc.png" alt="原始手写笔记第 19 页"></div>
 </div>
 
-## When To Send An Inquiry
+## 什么时候照会
 
 照会通常出现在这些情况：
 
@@ -103,11 +103,11 @@
 - 身份、受益人、银行卡或委托授权不清楚。
 - 医疗行为合理性存疑，例如挂床、康复疗养、过度检查。
 
-<div class="source-image"><p>Source: scanned note page 19</p><img src="https://pic.60004000.xyz/2026/06/b99691d1360f05804792200c275e9ffc.png" alt="Scanned note page 19"></div>
+<div class="source-image"><p>原始手写笔记第 19 页</p><img src="https://pic.60004000.xyz/2026/06/b99691d1360f05804792200c275e9ffc.png" alt="原始手写笔记第 19 页"></div>
 
-## When To Recheck Or Escalate
+## 什么时候复核或升级
 
-| Trigger | Why It Matters |
+| 触发点 | 为什么重要 |
 |---|---|
 | High claim amount | 金额高，赔付风险和财务影响更大。 |
 | Possible exclusion | 可能涉及责任免除，需要更严格证据。 |
@@ -118,13 +118,13 @@
 | System mismatch | 平台数据与人工材料不一致。 |
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 18</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="Scanned note page 18"></div>
-  <div class="source-image"><p>Source: scanned note page 19</p><img src="https://pic.60004000.xyz/2026/06/b99691d1360f05804792200c275e9ffc.png" alt="Scanned note page 19"></div>
+  <div class="source-image"><p>原始手写笔记第 18 页</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="原始手写笔记第 18 页"></div>
+  <div class="source-image"><p>原始手写笔记第 19 页</p><img src="https://pic.60004000.xyz/2026/06/b99691d1360f05804792200c275e9ffc.png" alt="原始手写笔记第 19 页"></div>
 </div>
 
-## Claim Outcomes
+## 理赔结论
 
-| Outcome | 中文 | Explanation |
+| 结论 | 中文 | 说明 |
 |---|---|---|
 | Full payment | 全额赔付 | 在责任范围内，且未受免赔额、比例、限额影响或影响后仍足额。 |
 | Partial payment | 部分赔付 | 受免赔额、比例、限额、已报销金额或部分费用不合理影响。 |
@@ -132,7 +132,19 @@
 | Pending | 暂缓 | 等待补件、调查、医学意见、复核或客户回应。 |
 | Agreement settlement | 协议处理 | 对复杂争议案件，经授权和流程形成协商结果。 |
 
+## 我自己的动作口诀
+
+```text
+先定人和保单
+再定时间和事故
+然后看责任和免责
+接着看材料是否互相印证
+最后再理算金额
+```
+
+如果任何一步不清楚，不要硬往下算：该补件就补件，该照会就照会，该复核就复核。
+
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 16</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="Scanned note page 16"></div>
-  <div class="source-image"><p>Source: scanned note page 18</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="Scanned note page 18"></div>
+  <div class="source-image"><p>原始手写笔记第 16 页</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="原始手写笔记第 16 页"></div>
+  <div class="source-image"><p>原始手写笔记第 18 页</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="原始手写笔记第 18 页"></div>
 </div>

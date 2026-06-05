@@ -1,47 +1,50 @@
-# Actuarial, Finance & Risk
+# 经营与风险
 
-These terms are useful when reading business reports, product pricing materials and financial discussions.
+这页不是让我做精算，而是帮助我理解：为什么公司要核保，为什么核赔不能随意赔，为什么医疗险、重疾险、寿险、年金的经营逻辑不一样。
 
-| English Term | 中文含义 | How To Understand | Typical Usage |
-|---|---|---|---|
-| Actuary | 精算师 | Professional who prices risk and evaluates liabilities. | Product development, reserves, solvency. |
-| Actuarial Assumption | 精算假设 | Expected mortality, morbidity, lapse, expense and investment rates. | Pricing and reserve calculation. |
-| Mortality Rate | 死亡率 | Probability of death within a period. | Life insurance pricing. |
-| Morbidity Rate | 发病率 | Probability of illness or disability. | Health and critical illness pricing. |
-| Incidence Rate | 发生率 | Frequency of a specific insured event. | Claims assumption and pricing. |
-| Lapse Rate | 退保率 | Rate at which policies terminate early. | Experience analysis and valuation. |
-| Persistency Ratio | 继续率 | Share of policies or premiums that remain active. | Business quality and channel management. |
-| Expense Ratio | 费用率 | Expenses as a percentage of premium or revenue. | Profitability analysis. |
-| Loss Ratio | 赔付率 | Claims divided by premium, often for non-life or health business. | Product performance review. |
-| Claims Ratio | 赔付率 | Claims cost compared with earned premium. | Health insurance and reporting. |
-| Combined Ratio | 综合成本率 | Loss ratio plus expense ratio. | Property, casualty and short-term health business. |
-| Reserve | 准备金 | Liability set aside for future claims and benefits. | Finance, actuarial reporting, solvency. |
-| Unearned Premium Reserve | 未到期责任准备金 | Reserve for premium not yet earned. | Short-term insurance accounting. |
-| Claim Reserve | 赔款准备金 | Reserve for reported or incurred claims not fully paid. | Claims and finance reporting. |
-| IBNR Reserve | 已发生未报告准备金 | Reserve for claims incurred but not yet reported. | Actuarial valuation. |
-| Solvency | 偿付能力 | Insurer's ability to meet obligations. | Regulatory reporting and risk management. |
-| Solvency Ratio | 偿付能力充足率 | Capital available divided by required capital. | Management and regulatory reports. |
-| Capital Requirement | 资本要求 | Minimum capital needed for risk exposure. | Solvency and strategic planning. |
-| Risk-Based Capital | 风险资本 | Capital calibrated by types and levels of risk. | Regulatory solvency framework. |
-| Embedded Value | 内含价值 | Present value of future profits from existing business plus net assets. | Life insurer valuation. |
-| New Business Value | 新业务价值 | Value created by newly sold policies. | Sales quality and investor reporting. |
-| Value of New Business Margin | 新业务价值率 | New business value divided by annualized premium or equivalent metric. | Product and channel profitability. |
-| Annualized Premium Equivalent | 年化标准保费 | Metric combining regular and single premiums for new business. | Life insurance sales reporting. |
-| First-Year Premium | 首年保费 | Premium received in the first policy year. | Sales performance. |
-| Single Premium | 趸交保费 | Premium paid once at policy start. | Savings and annuity products. |
-| Regular Premium | 期交保费 | Premium paid periodically over time. | Long-term insurance products. |
-| Renewal Premium Income | 续期保费收入 | Revenue from premiums after first year. | Finance and persistency analysis. |
-| Investment Income | 投资收益 | Income earned from invested assets. | Financial statements and product returns. |
-| Asset-Liability Management | 资产负债管理 | Matching assets with insurance liabilities. | Investment strategy and risk control. |
-| Duration Matching | 久期匹配 | Aligning asset and liability sensitivity to interest rates. | ALM and solvency risk. |
-| Interest Rate Risk | 利率风险 | Risk that rate changes affect assets, liabilities or product value. | ALM and capital management. |
-| Liquidity Risk | 流动性风险 | Risk of not having cash when needed. | Claims, surrender and investment management. |
-| Reinsurance | 再保险 | Insurance purchased by insurers to transfer part of risk. | Catastrophe risk, high sum insured cases. |
-| Cession | 分出业务 | Risk transferred from direct insurer to reinsurer. | Reinsurance contracts. |
-| Retention | 自留额 | Portion of risk kept by the insurer. | Reinsurance arrangement. |
-| Treaty Reinsurance | 合约再保险 | Reinsurance covering a portfolio under agreed terms. | Risk management for product lines. |
-| Facultative Reinsurance | 临时再保险 | Reinsurance arranged case by case. | Large or unusual risks. |
-| Experience Study | 经验分析 | Comparing actual results with assumptions. | Pricing update and risk management. |
-| Sensitivity Analysis | 敏感性分析 | Testing how results change when assumptions change. | Product approval and risk reporting. |
-| Stress Testing | 压力测试 | Testing performance under adverse scenarios. | Solvency and enterprise risk management. |
-| Profit Margin | 利润率 | Profit relative to premium, revenue or value base. | Product profitability. |
+## 公司怎么赚钱、怎么承担风险
+
+| 概念 | 是干什么的 | 客户视角 | 公司视角 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 保费收入 | 客户交给公司的钱。 | 用保费换保障。 | 形成风险池和投资资金。 | 赔付不是退保费，而是按合同承担风险。 |
+| 投资收益 | 公司运用资金产生收益。 | 长期险利益可能和资金运用有关。 | 寿险、年金依赖资产负债管理。 | 年金、增额寿要理解现金流，不按医疗险思路看。 |
+| 赔款支出 | 公司支付的保险金。 | 买保险最关键的时刻。 | 影响赔付率和经营结果。 | 该赔的准时赔，不该赔的要有条款和证据。 |
+| 费用与佣金 | 销售、运营、服务成本。 | 客户可能不直接感知。 | 影响产品定价和盈利。 | 理解为什么产品不能只看保额和保费。 |
+| 准备金 | 为未来赔付和给付预留的负债。 | 保证未来能赔。 | 偿付能力和财务稳定核心。 | 理赔结论会影响赔款准备和经营数据。 |
+
+## 核保核赔和经营指标
+
+| 指标 | 含义 | 为什么和双核有关 |
+|---|---|---|
+| 发病率 | 某类疾病发生概率。 | 重疾险、医疗险定价基础，核保要识别高风险。 |
+| 死亡率 | 一定期间内死亡概率。 | 寿险定价基础，高保额和健康异常要核保。 |
+| 赔付率 | 赔款相对保费的比例。 | 医疗险尤其敏感，核赔准确性直接影响。 |
+| 继续率 | 保单持续有效的比例。 | 销售质量、客户满意、产品价值都会影响。 |
+| 退保率 | 客户提前终止合同的比例。 | 影响现金流、价值和业务质量。 |
+| 新业务价值 | 新卖出保单带来的价值。 | 公司不只看卖了多少，还看卖得好不好。 |
+| 偿付能力 | 公司履行未来赔付义务的能力。 | 公司能不能长期兑现承诺。 |
+
+## 风险池怎么理解
+
+保险的基础是很多人把小额保费放进同一个风险池，用来承担少数人的大额损失。这个机制能成立，有几个前提：
+
+- 风险要能被估计，不能完全不可预测。
+- 客户不能只在明知要出险时才投保。
+- 每个人进入风险池前要按风险水平分类。
+- 出险后赔付要按合同边界执行。
+
+核保负责前两点和第三点，核赔负责第四点。双核的共同目标不是“少赔”，而是让风险池长期公平、稳定、可持续。
+
+## 不同产品的经营重点
+
+| 产品 | 公司主要风险 | 双核关注 |
+|---|---|---|
+| 医疗险 | 高频赔付、医疗通胀、过度医疗、逆选择。 | 核保看健康风险，核赔看合理必要、费用和重复补偿。 |
+| 重疾险 | 疾病发生率、定义争议、短期出险。 | 核保看既往病史，核赔看疾病定义和首次确诊。 |
+| 寿险 | 死亡率、道德风险、高保额风险。 | 核保看健康和财务，核赔看身故原因和受益人。 |
+| 年金险 | 利率风险、长寿风险、退保行为。 | 核保弱一些，更多看合同给付和保全。 |
+| 长护险 | 失能评估、长期给付、照护成本。 | 核保看健康和年龄，核赔看失能状态和持续条件。 |
+
+## 我自己的理解
+
+如果只从客户角度看，当然希望越容易买、越容易赔越好。但保险公司要长期存在，就必须让每一次承保和赔付都能回到定价逻辑和合同边界。我的工作不是站在客户对立面，而是在客户事实、条款承诺和公司风险之间做准确判断。

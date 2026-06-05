@@ -1,45 +1,56 @@
-# Policy Servicing
+# 保全与合同状态
 
-These words appear in customer service, policy administration, renewal and after-sales operations.
+保全是保单签发后的变更和服务。核赔不能只看“客户买过保险”，要看出险当时合同状态是否有效、责任是否还在、有没有变更或特别约定。
 
-| English Term | 中文含义 | How To Understand | Typical Usage |
-|---|---|---|---|
-| Policy Servicing | 保全服务 | Administrative service after policy issuance. | Customer service and operations. |
-| Endorsement | 批单 | Formal document changing policy terms or data. | Beneficiary change, address update, rider addition. |
-| Policy Change | 保单变更 | Any approved update to policy information or benefits. | Servicing request processing. |
-| Beneficiary Change | 受益人变更 | Updating who receives death benefits. | Life insurance servicing. |
-| Address Change | 地址变更 | Updating customer contact address. | Customer records and notices. |
-| Name Change | 姓名变更 | Updating legal name on the policy. | ID correction and customer service. |
-| Ownership Change | 保单权益人变更 | Transfer of policy ownership rights. | Wealth planning and servicing review. |
-| Assignment | 权益转让 | Transfer of policy rights to another party. | Loan collateral and legal arrangements. |
-| Collateral Assignment | 质押转让 | Policy assigned as security for a debt. | Bank loans and legal servicing. |
-| Premium Due Date | 保费应缴日 | Date on which premium must be paid. | Renewal reminders and lapse prevention. |
-| Renewal Premium | 续期保费 | Premium paid after the first policy period or year. | Persistency management. |
-| Automatic Premium Loan | 自动垫交保费 | Cash value is used to pay due premium automatically. | Lapse prevention. |
-| Policy Loan | 保单贷款 | Loan secured by policy cash value. | Customer liquidity needs. |
-| Loan Interest | 贷款利息 | Interest charged on policy loan. | Loan repayment and servicing. |
-| Cash Value | 现金价值 | Accumulated value available for surrender, loan or reduction. | Surrender, policy loan, value inquiry. |
-| Surrender | 退保 | Terminating the policy and receiving surrender value. | Customer service and retention. |
-| Surrender Value | 退保金 | Amount payable upon surrender. | Financial explanation and servicing. |
-| Partial Surrender | 部分退保 | Taking part of policy value while keeping policy active. | Flexible cash withdrawal. |
-| Reduction of Sum Insured | 减保 | Lowering coverage amount, often releasing cash value. | Long-term savings product servicing. |
-| Paid-Up Policy | 减额交清保单 | Policy remains active with reduced benefits and no further premiums. | Non-forfeiture option. |
-| Extended Term Insurance | 展期定期保险 | Cash value buys temporary term coverage. | Non-forfeiture option. |
-| Lapse | 保单失效 | Policy loses effect due to unpaid premium or other reasons. | Renewal and claims eligibility. |
-| Reinstatement | 复效 | Restoring a lapsed policy after requirements are met. | Customer service and underwriting review. |
-| Cancellation | 取消保单 | Ending a policy according to rules. | Free-look, admin correction, customer request. |
-| Cooling-Off Cancellation | 犹豫期退保 | Cancellation during free-look period. | New policy callback. |
-| Policy Replacement | 保单替换 | New policy replaces an existing one. | Compliance and sales suitability. |
-| Conservation | 保单维持 | Efforts to keep a policy in force. | Retention team and customer service. |
-| Persistency | 继续率 | Degree to which policies remain in force. | Business quality reporting. |
-| Renewal Notice | 续费通知 | Reminder sent before premium due date. | Customer communication. |
-| Premium Holiday | 保费假期 | Temporary suspension of premium payment if allowed. | Universal life or flexible products. |
-| Account Value | 账户价值 | Value in an account-based policy. | Universal life and unit-linked policies. |
-| Credited Interest | 结算利息 | Interest credited to an account value. | Universal life statement. |
-| Dividend Option | 红利领取方式 | How policy dividends are used or paid. | Participating policy servicing. |
-| Reversionary Bonus | 复归红利 | Bonus added to policy benefits, often not paid immediately. | Participating business. |
-| Terminal Bonus | 终了红利 | Bonus payable at maturity, death or surrender if declared. | Participating product explanation. |
-| Policy Statement | 保单年度报告 | Periodic statement showing values and transactions. | Customer communication and account review. |
-| Customer Callback | 客户回访 | Post-sale check confirming understanding and consent. | Compliance and customer protection. |
-| Complaint Handling | 投诉处理 | Process for receiving and resolving complaints. | Service quality and regulatory reporting. |
-| Service Level Agreement | 服务时效承诺 | Target time for completing service requests. | Operations management. |
+## 保全为什么重要
+
+| 视角 | 重点 |
+|---|---|
+| 客户 | 买完后还会改地址、改受益人、贷款、减保、退保、复效。 |
+| 公司 | 保全影响合同权利、责任范围、资金流和合规留痕。 |
+| 我 | 理赔前必须确认保单在出险日是什么状态，不能按今天看到的状态倒推。 |
+
+## 常见保全动作
+
+| 动作 | 是干什么的 | 客户为什么关心 | 公司为什么关心 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 受益人变更 | 改身故金领取人。 | 避免身故后争议。 | 错付风险高。 | 身故理赔看最新有效受益人、顺序、比例、签名和生效时间。 |
+| 联系方式变更 | 更新电话、地址、邮箱。 | 能收到通知、照会、续费提醒。 | 服务触达和合规通知。 | 照会、回访、资料寄送时确认联系方式。 |
+| 保单贷款 | 用现金价值贷款。 | 短期资金周转。 | 影响合同价值和赔付扣款。 | 理赔时看贷款本金利息是否需要扣除。 |
+| 减保 | 降低保额并释放部分现金价值。 | 保留合同同时取出部分钱。 | 影响剩余保额和现金价值。 | 出险前是否减保会影响应赔金额。 |
+| 退保 | 终止合同并领取退保金。 | 不想继续持有。 | 合同终止后责任停止。 | 出险日在退保后，通常不再承担责任。 |
+| 复效 | 失效后恢复合同。 | 断缴后重新获得保障。 | 需要重新控制风险。 | 看复效日、复效健康告知、等待期是否重算。 |
+| 附加险变更 | 新增、取消或调整附加责任。 | 保障组合变化。 | 责任和收费变化。 | 本次事故对应的附加险是否仍有效。 |
+| 批单/特别约定 | 对合同内容作正式补充或变更。 | 影响实际保障。 | 把风险边界写入合同。 | 理赔时必须和主条款一起读。 |
+
+## 合同状态
+
+| 状态 | 含义 | 核赔影响 |
+|---|---|---|
+| 有效 | 合同责任正常存在。 | 进入责任、材料和理算判断。 |
+| 宽限期 | 到期未缴费但仍处缓冲期。 | 可能承担责任，但赔付时可能扣欠费。 |
+| 失效 | 未缴费或其他原因导致合同效力停止。 | 失效期间出险通常不承担责任。 |
+| 复效 | 失效后恢复。 | 疾病责任是否重新等待期要看条款。 |
+| 终止 | 合同结束，如退保、满期、赔付后终止。 | 终止后事故一般不再承担责任。 |
+| 满期 | 保险期间届满。 | 看满期金或合同终止后的事故边界。 |
+
+## 时间点别混
+
+| 时间 | 是什么 | 我怎么看 |
+|---|---|---|
+| 投保申请日 | 客户提交投保的日期。 | 不等于保障开始。 |
+| 承保日/签发日 | 公司同意并出具合同。 | 看合同生成和核保结果。 |
+| 生效日 | 责任起算。 | 和出险日、等待期对齐。 |
+| 签收日/回执日 | 客户确认收到合同。 | 影响犹豫期、新单回访。 |
+| 缴费应缴日 | 续期保费到期。 | 判断欠费、宽限期、失效。 |
+| 复效日 | 失效后恢复。 | 可能重新计算等待期。 |
+| 出险日 | 事故发生时间。 | 核赔最重要时间锚点。 |
+
+## 我自己的检查顺序
+
+1. 先查保单号和险种，确认主险、附加险。
+2. 查出险日当天保单状态，不要只看当前状态。
+3. 查缴费、宽限期、失效、复效。
+4. 查等待期、生效日、复效日。
+5. 查特别约定、除外、加费、批单。
+6. 查受益人、申请人、收款账户是否有资格。

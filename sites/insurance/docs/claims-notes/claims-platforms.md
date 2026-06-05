@@ -1,26 +1,26 @@
-# Claims Platforms & 健保通
+# 理赔平台与健保通
 
 这一页整理扫描笔记第 16、18、20 页：理赔业务平台、自助上传、健保通平台，以及“预、立、扣费、理算”等关键词。
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 16</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="Scanned note page 16"></div>
-  <div class="source-image"><p>Source: scanned note page 18</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="Scanned note page 18"></div>
-  <div class="source-image"><p>Source: scanned note page 20</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="Scanned note page 20"></div>
+  <div class="source-image"><p>原始手写笔记第 16 页</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="原始手写笔记第 16 页"></div>
+  <div class="source-image"><p>原始手写笔记第 18 页</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="原始手写笔记第 18 页"></div>
+  <div class="source-image"><p>原始手写笔记第 20 页</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="原始手写笔记第 20 页"></div>
 </div>
 
-## Two Claim Entry Modes
+## 两类理赔入口
 
-| Mode | 中文 | How It Works | Claims Focus |
+| 模式 | 中文 | 怎么运作 | 我关注什么 |
 |---|---|---|---|
-| Self-service upload | 客户自助上传 | 客户通过 App、公众号或线上入口提交理赔申请和材料。 | 材料完整性、影像清晰度、身份和保单匹配。 |
-| 健保通 / hospital-linked flow | 健保通平台 | 医院与保险端协作，住院客户可在医院端完成直赔或快赔。 | 授权、报案、医院范围、预授权、结算数据、理算结果。 |
+| 客户自助上传 | 线上理赔 | 客户通过 App、公众号或线上入口提交理赔申请和材料。 | 材料完整性、影像清晰度、身份和保单匹配。 |
+| 健保通 | 医院联动理赔 | 医院与保险端协作，住院客户可在医院端完成直赔或快赔。 | 授权、报案、医院范围、预授权、结算数据、理算结果。 |
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 16</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="Scanned note page 16"></div>
-  <div class="source-image"><p>Source: scanned note page 18</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="Scanned note page 18"></div>
+  <div class="source-image"><p>原始手写笔记第 16 页</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="原始手写笔记第 16 页"></div>
+  <div class="source-image"><p>原始手写笔记第 18 页</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="原始手写笔记第 18 页"></div>
 </div>
 
-## What Is 健保通?
+## 健保通是什么
 
 根据泰康人寿官网，“健保通医院”中：
 
@@ -33,31 +33,31 @@
 
 行业研究资料进一步解释，健保通是一种面向医疗险参保人的一站式结算解决方案，通过与医院直连，在住院期间收集授权和理赔资料，出院时在医院窗口完成商保理赔结算，后续由保险公司与医院按约定结算垫付赔款。
 
-Sources:
+官方来源：
 
 - [泰康人寿健保通医院查询](https://www.taikanglife.com/service/searchservice/jbthospital/jbthospital.html)
 - [《泰康健保通医院住院津贴医疗保险》条款](https://www.taikanglife.com/uploader/pubProductFile/2023/06/20/6b1c60ca-6f1b-48bc-bbf4-f66fcdf7ca97.pdf)
 - [中再寿险：医疗险理赔改革创新的实践与思考](https://www.chinarelife.cn/chinarelife/zyyj/cxyj/2023110310350030037/index.html)
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 18</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="Scanned note page 18"></div>
-  <div class="source-image"><p>Source: scanned note page 20</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="Scanned note page 20"></div>
+  <div class="source-image"><p>原始手写笔记第 18 页</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="原始手写笔记第 18 页"></div>
+  <div class="source-image"><p>原始手写笔记第 20 页</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="原始手写笔记第 20 页"></div>
 </div>
 
-## Direct Claim Vs Fast Claim
+## 直赔和快赔
 
-| Item | Direct Claim / 直赔 | Fast Claim / 快赔 |
+| 项目 | 直赔 | 快赔 |
 |---|---|---|
-| Customer experience | 出院窗口直接结算，客户只付剩余自付部分。 | 出院后较快获得赔款，赔款到客户指定账户。 |
-| System dependency | 医院和保险端对接程度高。 | 对接要求相对低，可用医疗数据提升审核效率。 |
-| Risk control | 风险更高，需要预授权、规则和复核机制。 | 更接近传统理赔，仍可人工审核。 |
-| Claims role | 更关注授权、预审、额度、异常拦截和医院结算数据。 | 更关注材料完整、费用清单、医保结算和理算准确。 |
+| 客户体验 | 出院窗口直接结算，客户只付剩余自付部分。 | 出院后较快获得赔款，赔款到客户指定账户。 |
+| 系统依赖 | 医院和保险端对接程度高。 | 对接要求相对低，可用医疗数据提升审核效率。 |
+| 风控重点 | 风险更前置，需要预授权、规则和复核机制。 | 更接近传统理赔，仍可人工审核。 |
+| 我的工作重点 | 授权、预审、额度、异常拦截和医院结算数据。 | 材料完整、费用清单、医保结算和理算准确。 |
 
-<div class="source-image"><p>Source: scanned note page 20</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="Scanned note page 20"></div>
+<div class="source-image"><p>原始手写笔记第 20 页</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="原始手写笔记第 20 页"></div>
 
-## Platform Keywords From Your Notes
+## 笔记里的平台关键词
 
-| Keyword | 中文 | Practical Meaning |
+| 关键词 | 中文 | 实际含义 |
 |---|---|---|
 | Pre-check | 预审 | 案件进入正式处理前，先看基础条件是否满足。 |
 | Pre-authorization | 预授权 | 住院免押金或直付前，公司对客户资格、保单、医院、额度做初步确认。 |
@@ -70,11 +70,11 @@ Sources:
 | Settlement | 结案/赔付 | 作出赔付、拒付或其他处理结论。 |
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 16</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="Scanned note page 16"></div>
-  <div class="source-image"><p>Source: scanned note page 19</p><img src="https://pic.60004000.xyz/2026/06/b99691d1360f05804792200c275e9ffc.png" alt="Scanned note page 19"></div>
+  <div class="source-image"><p>原始手写笔记第 16 页</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="原始手写笔记第 16 页"></div>
+  <div class="source-image"><p>原始手写笔记第 19 页</p><img src="https://pic.60004000.xyz/2026/06/b99691d1360f05804792200c275e9ffc.png" alt="原始手写笔记第 19 页"></div>
 </div>
 
-## A Typical 健保通 Flow
+## 健保通典型流程
 
 ```text
 客户入住合作医院
@@ -90,13 +90,13 @@ Sources:
 ```
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 18</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="Scanned note page 18"></div>
-  <div class="source-image"><p>Source: scanned note page 20</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="Scanned note page 20"></div>
+  <div class="source-image"><p>原始手写笔记第 18 页</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="原始手写笔记第 18 页"></div>
+  <div class="source-image"><p>原始手写笔记第 20 页</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="原始手写笔记第 20 页"></div>
 </div>
 
-## Claims Examiner Checkpoints
+## 核赔检查点
 
-| Checkpoint | What To Ask |
+| 检查点 | 我问什么 |
 |---|---|
 | Hospital eligibility | 是否为泰康健保通合作医院？当前名单是否有效？ |
 | Claim mode | 本案是直赔、快赔，还是普通线上理赔？ |
@@ -109,12 +109,12 @@ Sources:
 | Risk flags | 是否存在挂床、过度医疗、费用异常、既往症、重复理赔？ |
 
 <div class="source-grid">
-  <div class="source-image"><p>Source: scanned note page 16</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="Scanned note page 16"></div>
-  <div class="source-image"><p>Source: scanned note page 18</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="Scanned note page 18"></div>
-  <div class="source-image"><p>Source: scanned note page 20</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="Scanned note page 20"></div>
+  <div class="source-image"><p>原始手写笔记第 16 页</p><img src="https://pic.60004000.xyz/2026/06/342076eddbfc6c35c83a5d3a0917cece.png" alt="原始手写笔记第 16 页"></div>
+  <div class="source-image"><p>原始手写笔记第 18 页</p><img src="https://pic.60004000.xyz/2026/06/c351593a8934b5db70faac3fc3809480.png" alt="原始手写笔记第 18 页"></div>
+  <div class="source-image"><p>原始手写笔记第 20 页</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="原始手写笔记第 20 页"></div>
 </div>
 
-## Why It Matters For Claims Work
+## 为什么它对核赔重要
 
 健保通不是单纯“多一个报案入口”，它改变了理赔节奏：
 
@@ -123,4 +123,12 @@ Sources:
 - 直赔提升客户体验，但对系统规则、预授权、实时数据和风控要求更高。
 - 快赔在效率和风险控制之间更平衡，仍保留较多人工审核空间。
 
-<div class="source-image"><p>Source: scanned note page 20</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="Scanned note page 20"></div>
+## 客户、公司、我的视角
+
+| 视角 | 怎么理解健保通 |
+|---|---|
+| 客户 | 少垫钱、少跑流程，出院时或出院后更快解决赔款问题。 |
+| 公司 | 把服务体验做强，但必须用医院名单、授权、预授权、系统规则和复核控制风险。 |
+| 我 | 不能因为是健保通就默认能赔，仍然要回到条款、保单状态、医院范围、费用明细和结算数据。 |
+
+<div class="source-image"><p>原始手写笔记第 20 页</p><img src="https://pic.60004000.xyz/2026/06/edda27ae721421936b067c5e9d962768.png" alt="原始手写笔记第 20 页"></div>

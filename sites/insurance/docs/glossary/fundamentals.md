@@ -1,45 +1,45 @@
-# Core Concepts
+# 基础概念
 
-These terms describe the basic structure of an insurance contract.
+这一页解决“保险合同到底在说谁、说什么、什么时候开始负责”。核保和核赔都绕不开这些词。
 
-| English Term | 中文含义 | How To Understand | Typical Usage |
-|---|---|---|---|
-| Insurance | 保险 | A risk transfer arrangement funded by premiums. | Product introduction, client education, training slides. |
-| Risk | 风险 | The uncertainty that a loss may occur. | Risk assessment, underwriting, product design. |
-| Risk Pooling | 风险集合 | Many policyholders share losses through one pool. | Explaining why insurance can work at scale. |
-| Insurer | 保险人 | The insurance company that accepts risk and pays valid claims. | Contract parties, legal documents, policy wording. |
-| Policyholder | 投保人 | The person or entity that owns the policy and pays premiums. | Application forms, payment, policy changes. |
-| Insured | 被保险人 | The person whose life, health or property is covered. | Underwriting, claims, coverage eligibility. |
-| Beneficiary | 受益人 | The person entitled to receive benefits after a covered event. | Life insurance claims, beneficiary designation. |
-| Applicant | 申请人 | The person applying for insurance before the policy is issued. | New business processing, proposal forms. |
-| Contracting Party | 合同当事人 | A party legally bound by the insurance contract. | Legal review, policy interpretation. |
-| Policy | 保单 | The formal insurance contract and evidence of coverage. | Customer service, claims, policy administration. |
-| Policy Schedule | 保单明细页 | The page listing key policy data, amounts and dates. | Checking coverage, premium, riders and beneficiaries. |
-| Policy Wording | 保险条款 | The detailed legal text of the contract. | Training, complaint handling, claims review. |
-| Coverage | 保障范围 | What the insurance protects against. | Product comparison and client explanation. |
-| Insurance Benefit | 保险金 | The money payable under the contract. | Claims settlement and benefit illustration. |
-| Sum Insured | 保险金额 | The agreed amount used to calculate benefits. | Product design, quotation, claim calculation. |
-| Face Amount | 基本保额 | The headline coverage amount stated in the policy. | Life insurance, critical illness insurance. |
-| Premium | 保费 | The price paid for insurance protection. | Quotation, payment, renewal reminders. |
-| Gross Premium | 毛保费 | Premium including risk cost, expenses and margins. | Pricing and actuarial discussion. |
-| Net Premium | 纯保费 | Premium mainly covering expected claims. | Actuarial pricing and training. |
-| Policy Term | 保险期间 | The length of time coverage remains in force. | Product comparison, policy explanation. |
-| Premium Payment Term | 缴费期间 | The period over which premiums must be paid. | Sales plans, affordability analysis. |
-| Effective Date | 生效日 | The date when coverage starts. | Policy issue, waiting period calculation. |
-| Maturity Date | 满期日 | The date when a policy reaches the end of its term. | Endowment, annuity, maturity benefit payment. |
-| Policy Anniversary | 保单周年日 | The yearly anniversary of the effective date. | Bonus allocation, cash value update, renewal. |
-| Insurance Liability | 保险责任 | Events and benefits the insurer promises to cover. | Product training and claims judgment. |
-| Exclusion | 责任免除 | A condition or event the insurer does not cover. | Claims denial, customer explanation. |
-| Waiting Period | 等待期 | A short initial period when certain claims are not covered. | Health insurance and critical illness products. |
-| Grace Period | 宽限期 | Extra time after premium due date before lapse. | Renewal premium collection and customer service. |
-| Free-Look Period | 犹豫期 | A cooling-off period for cancellation after purchase. | New policy callback, surrender consultation. |
-| Insurable Interest | 保险利益 | A legally recognized interest in the insured person or subject. | Validity of policy, compliance review. |
-| Utmost Good Faith | 最大诚信原则 | Both parties must disclose material information honestly. | Health disclosure, claims disputes. |
-| Material Fact | 重要事实 | Information that may affect underwriting or pricing. | Application review, non-disclosure investigation. |
-| Non-Disclosure | 未如实告知 | Failure to provide required material information. | Claims investigation, contract rescission. |
-| Misrepresentation | 错误陈述 | Giving inaccurate information during application. | Underwriting, complaint and legal cases. |
-| Policyholder Rights | 投保人权利 | Rights to change, surrender, borrow or designate beneficiaries. | Servicing and policy owner requests. |
-| Insurance Proposal | 投保申请 | The request to buy insurance before acceptance. | Front-office sales and new business processing. |
-| Policy Issuance | 保单签发 | The insurer formally issues the policy. | New business workflow and system status. |
-| In Force | 有效状态 | A policy is active and coverage is valid. | Policy inquiry, claims eligibility. |
-| Out of Force | 失效状态 | A policy is no longer active. | Claims screening and customer service. |
+## 合同主体
+
+| 概念 | 是干什么的 | 客户为什么关心 | 公司为什么关心 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 保险人 | 承担保险责任的保险公司。 | 知道最后谁赔、谁服务。 | 合同责任和经营风险都在公司。 | 看合同主体、分支机构、产品条款是否匹配。 |
+| 投保人 | 申请保险并缴费的人。 | 拥有多数保单权利，如缴费、退保、变更。 | 投保人资格、支付能力、保险利益影响合同有效性。 | 核身份、缴费状态、投保人与被保人关系。 |
+| 被保险人 | 风险落在谁身上。 | 自己是不是被保障的人。 | 核保、核赔的健康和事故事实都围绕被保险人。 | 核健康告知、病历、出险人是否一致。 |
+| 受益人 | 出险后有权领取保险金的人。 | 身故金给谁、是否会争议。 | 关系到赔付对象和法律风险。 | 身故案件重点看受益人顺序、比例、身份证明和变更记录。 |
+| 申请人 | 提交理赔或保全申请的人。 | 能不能代办、能不能收款。 | 授权和资格不清会导致错付。 | 看申请人与受益人/被保人/投保人的关系和授权。 |
+
+## 合同内容
+
+| 概念 | 是干什么的 | 客户为什么关心 | 公司为什么关心 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 保单 | 保险合同和保障凭证。 | 买了什么、多少钱、保多久都在这里。 | 所有服务、核保、核赔都要回到保单。 | 先定位保单号、险种、主附险、状态。 |
+| 保险条款 | 合同的具体规则。 | 决定能不能赔、怎么赔、哪些不赔。 | 明确责任边界，避免无限责任。 | 不凭印象判断，关键结论必须能回到条款。 |
+| 保险责任 | 公司承诺承担的风险。 | 这是客户真正购买的保障。 | 产品定价和赔付都围绕责任设计。 | 看申请的事故是否落入具体责任。 |
+| 责任免除 | 公司明确不承担的情形。 | 客户最容易觉得“买了为什么不赔”。 | 控制违法、高风险、不可保或不合理责任。 | 审核时逐项排除，尤其是既往症、违法、酒驾、康复疗养等。 |
+| 基本保额 | 给付型保险计算基础。 | 影响重疾、身故、全残等赔多少。 | 决定风险暴露和定价。 | 看保额、赔付比例、已给付责任是否影响剩余责任。 |
+| 现金价值 | 保单可退、可贷、可减保的价值。 | 关系到退保、贷款和长期资金安排。 | 影响负债、保全和赔付扣款。 | 赔付时留意贷款、欠款、自动垫交。 |
+
+## 关键时间
+
+| 概念 | 是干什么的 | 客户为什么关心 | 公司为什么关心 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 生效日 | 保障开始的时间点。 | 生效前出险通常不赔。 | 责任起算锚点。 | 和出险日、首次确诊日、入院日对齐。 |
+| 保险期间 | 保障持续多久。 | 过期后事故不在保障内。 | 控制责任期限。 | 出险日必须落在保险期间内。 |
+| 缴费期间 | 客户需要交多久保费。 | 影响缴费压力。 | 影响继续率和保单状态。 | 欠费、宽限期、失效都和缴费有关。 |
+| 等待期 | 生效初期部分疾病责任暂不承担。 | 短期出险最关键。 | 防止带病投保和逆选择。 | 疾病类案件先算等待期；复效后是否重算看条款。 |
+| 宽限期 | 到期未缴费后仍给的一段缓冲期。 | 忘缴费不一定马上失去保障。 | 兼顾客户权益和合同管理。 | 宽限期内出险是否承担责任、是否扣欠费要看条款。 |
+| 犹豫期 | 新单签收后可撤销合同的期间。 | 买错了可以反悔。 | 保护客户权益，减少销售争议。 | 与回执、签收日、新单回访相关。 |
+| 复效 | 失效保单重新恢复效力。 | 断缴后可能重新获得保障。 | 复效相当于重新评估部分风险。 | 复效材料、复效日、等待期重算要重点看。 |
+
+## 诚信和告知
+
+| 概念 | 是干什么的 | 客户为什么关心 | 公司为什么关心 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 最大诚信 | 保险双方都要诚实说明重要事实。 | 不清楚告知义务会影响后续理赔。 | 保险定价依赖真实信息。 | 投保资料、健康告知、销售说明、回访记录要连起来看。 |
+| 如实告知 | 客户按问询内容提供健康、职业等事实。 | 告知不实可能导致解除合同或拒赔。 | 核保判断的基础。 | 看问询范围、客户回答、病史证据、是否足以影响承保。 |
+| 重要事实 | 会影响公司是否承保或如何承保的信息。 | 哪些病史要说清楚。 | 决定风险分层。 | 短期出险、既往病史、体检异常时重点回看。 |
+| 特别约定 | 核保后写入合同的特殊规则。 | 可能加费、除外或限制责任。 | 把个体风险边界写进合同。 | 理赔时必须看批单和特别约定，不只看通用条款。 |

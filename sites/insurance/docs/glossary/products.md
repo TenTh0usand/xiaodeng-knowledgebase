@@ -1,49 +1,58 @@
-# Products & Coverage
+# 险种与责任
 
-These terms help you read product brochures, benefit tables and training materials.
+这一页从“客户为什么买、公司为什么卖、我核保核赔怎么看”三个角度理解险种。险种名称只是入口，真正要看的还是责任触发条件和条款边界。
 
-| English Term | 中文含义 | How To Understand | Typical Usage |
-|---|---|---|---|
-| Life Insurance | 人寿保险 | Insurance paying benefits based on death or survival. | Family protection, wealth transfer. |
-| Term Life Insurance | 定期寿险 | Life cover for a fixed term. | Mortgage protection, income replacement. |
-| Whole Life Insurance | 终身寿险 | Life cover lasting for the insured's lifetime. | Legacy planning, long-term protection. |
-| Increasing Whole Life | 增额终身寿险 | Whole life with a gradually increasing insured amount or value. | Long-term savings and inheritance planning. |
-| Endowment Insurance | 两全保险 | Pays on death during term or survival at maturity. | Savings-oriented products and education funds. |
-| Annuity Insurance | 年金保险 | Pays regular benefits at agreed times. | Retirement income and education planning. |
-| Immediate Annuity | 即期年金 | Annuity payments start soon after purchase. | Retirement income conversion. |
-| Deferred Annuity | 延期年金 | Annuity payments begin after an accumulation period. | Long-term retirement planning. |
-| Pension Annuity | 养老年金 | An annuity designed for retirement income. | Commercial pension and retirement plans. |
-| Participating Policy | 分红保险 | Policy may share insurer surplus through dividends. | Benefit illustration, product explanation. |
-| Non-Participating Policy | 非分红保险 | Policy does not share dividends. | Product classification and pricing. |
-| Universal Life | 万能寿险 | Flexible policy with an account and credited interest. | Account-based product explanation. |
-| Unit-Linked Insurance | 投连险 | Investment-linked insurance where policy value follows investment units. | Wealth management and risk disclosure. |
-| Critical Illness Insurance | 重大疾病保险 | Pays a lump sum when covered illness criteria are met. | Health protection and income replacement. |
-| Medical Insurance | 医疗保险 | Reimburses eligible medical expenses. | Hospitalization, outpatient, claims settlement. |
-| Million Medical Insurance | 百万医疗险 | High-limit medical insurance, often with deductible. | Major medical expense protection. |
-| Accident Insurance | 意外伤害保险 | Covers death, disability or medical costs from accidents. | Short-term protection and group plans. |
-| Disability Insurance | 失能收入保险 | Replaces income when disability prevents work. | Income protection planning. |
-| Long-Term Care Insurance | 长期护理保险 | Covers care needs caused by disability or dependency. | Aging care and nursing cost planning. |
-| Cancer Insurance | 癌症保险 | Focused coverage for malignant tumors or cancer treatment. | Health product segmentation. |
-| Hospital Cash Insurance | 住院津贴保险 | Pays a fixed amount per hospital day. | Supplementing lost income and extra expenses. |
-| Outpatient Coverage | 门诊保障 | Coverage for outpatient visits or treatment. | Medical product responsibility design. |
-| Inpatient Coverage | 住院保障 | Coverage for hospitalization expenses. | Medical claims and product comparison. |
-| Drug Benefit | 药品责任 | Coverage for eligible drugs. | Special drugs, oncology therapy, pharmacy network. |
-| Special Drug Benefit | 特药责任 | Coverage for high-cost specified medicines. | Cancer treatment, innovative drug access. |
-| Dental Insurance | 牙科保险 | Covers eligible dental treatment. | Employee benefits and health plans. |
-| Maternity Insurance | 生育保险 | Covers pregnancy and childbirth-related expenses. | Group health benefits. |
-| Group Insurance | 团体保险 | Insurance purchased for a group, usually employees. | Corporate benefits and group underwriting. |
-| Individual Insurance | 个人保险 | Policy purchased by an individual customer. | Retail insurance sales. |
-| Rider | 附加险 | An add-on benefit attached to a main policy. | Product combination and upselling. |
-| Main Policy | 主险 | The base contract to which riders may attach. | Product structure and policy servicing. |
-| Basic Benefit | 基本责任 | The core benefit included in the product. | Benefit table and brochure reading. |
-| Optional Benefit | 可选责任 | Additional coverage chosen by the policyholder. | Product configuration and quotation. |
-| Lump-Sum Benefit | 一次性给付 | A fixed amount paid at one time. | Critical illness and life claims. |
-| Reimbursement Benefit | 费用补偿 | Pays based on actual eligible expenses. | Medical insurance claims. |
-| Indemnity Benefit | 定额给付 | Pays a fixed amount regardless of actual expenses. | Hospital cash, accident disability. |
-| Survival Benefit | 生存金 | Benefit paid if the insured survives to a date. | Endowment and annuity policies. |
-| Maturity Benefit | 满期金 | Benefit paid when the policy matures. | Endowment product servicing. |
-| Death Benefit | 身故保险金 | Benefit paid after insured death. | Life insurance claims. |
-| Total Permanent Disability Benefit | 全残保险金 | Benefit paid for qualifying total permanent disability. | Life and accident insurance. |
-| Waiver of Premium | 豁免保费 | Future premiums are waived after a specified event. | Critical illness riders and family policies. |
-| Guaranteed Renewal | 保证续保 | Renewal is guaranteed under stated conditions. | Medical insurance product comparison. |
-| Non-Guaranteed Renewal | 非保证续保 | Renewal depends on insurer rules or product status. | Customer communication and renewal risk. |
+## 常见险种
+
+| 险种 | 是干什么的 | 客户为什么买 | 公司为什么卖 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 医疗险 | 对符合条款的医疗费用做补偿。 | 降低住院、手术、特药等费用压力。 | 医疗需求强，但赔付频率高，要靠免赔额、比例、医院范围控制风险。 | 看费用是否合理必要、是否属于责任、是否已由医保或其他渠道补偿。 |
+| 百万医疗险 | 高额度医疗险，通常有较高免赔额。 | 用较低保费防大额医疗支出。 | 大额低频风险适合风险池，但要防过度医疗和逆选择。 | 重点看免赔额、医保结算、年度限额、特药/特殊门诊责任。 |
+| 高端医疗险 | 覆盖更高端医疗资源和服务。 | 追求就医体验、医院选择和直付服务。 | 保费高、服务强，但医疗网络和费用风险也更复杂。 | 看医院网络、特需/国际部、预授权、直付、合理惯常费用。 |
+| 重疾险 | 达到合同疾病定义后给付保险金。 | 大病后补收入损失、康复费和家庭现金流。 | 用疾病定义控制触发条件。 | 不只看病名，要看病理、分期、手术、状态是否符合定义。 |
+| 寿险 | 身故或全残时给付保险金。 | 保护家庭经济责任，覆盖房贷、子女、父母赡养。 | 死亡率可定价，但要防超额投保和道德风险。 | 核保看财务和健康，理赔看身故原因、免责、受益人。 |
+| 意外险 | 因意外导致身故、伤残或医疗费用时赔。 | 防突发事故。 | 期限短、责任清晰，但职业风险差异大。 | 看事故是否符合“外来的、突发的、非本意的、非疾病的”逻辑。 |
+| 年金险 | 到约定时间按期给付年金。 | 养老、教育、长期现金流安排。 | 长期资金和资产负债管理价值高。 | 核保相对弱于健康险，服务和给付时看领取条件。 |
+| 增额终身寿 | 终身寿险叠加现金价值增长和减保安排。 | 长期资金规划、身故保障、传承。 | 长期负债管理和价值业务。 | 看现金价值、减保、贷款、身故金和保全规则。 |
+| 两全保险 | 满期生存或期间身故都可能给付。 | 既想保障又想满期领取。 | 储蓄和保障结合，定价依赖利率和死亡率。 | 要区分满期金、身故金、已领取利益。 |
+| 长期护理险 | 失能或照护状态达到条件时给付或服务。 | 老年照护和失能风险。 | 老龄化需求明确，但评估和持续给付风险高。 | 看 ADL、失能评估、等待给付期、护理状态证明。 |
+
+## 责任类型
+
+| 责任 | 是什么 | 客户理解 | 公司边界 | 我怎么检查 |
+|---|---|---|---|---|
+| 给付型 | 达到约定条件后按保额给钱。 | 不看实际花了多少钱。 | 条件必须清楚，否则赔付边界失控。 | 重疾、身故、津贴都要看触发条件。 |
+| 费用补偿型 | 按实际合理费用报销。 | 不能超过实际损失。 | 防重复赔、超额赔和过度医疗。 | 发票、清单、医保结算单是核心。 |
+| 定额津贴型 | 按天数或次数给固定金额。 | 住院一天赔多少。 | 要定义住院、天数、免赔天数和最高天数。 | 看入出院记录、住院天数、同一次住院规则。 |
+| 豁免保费 | 发生约定事故后免交后续保费。 | 后面不用交但保障继续。 | 触发条件要严格。 | 看豁免对象、事故类型、豁免起止时间。 |
+| 保证续保 | 满足条款条件时可继续续保。 | 不会因单次理赔就买不到。 | 要明确保证期间、续保条件和产品停售规则。 | 看续保版本、期间、是否重新等待期。 |
+
+## 医疗险的工作重点
+
+医疗险是核赔学习最容易遇到的主线，因为它材料多、金额拆分多、争议点也多。
+
+| 维度 | 我要看什么 |
+|---|---|
+| 医院 | 是否符合条款认可医院，是否普通部，是否合作医院。 |
+| 诊断 | 诊断证明、病历、检查报告是否一致。 |
+| 治疗 | 是否与诊断匹配，是否医学必要。 |
+| 费用 | 发票、费用清单、医保结算单是否对应。 |
+| 责任 | 住院、门急诊、特殊门诊、特药、前后门急诊分别适用什么限额。 |
+| 扣减 | 医保、公费医疗、其他商保、第三方补偿、免赔额。 |
+| 异常 | 挂床、过度医疗、重复票据、投保后短期高额理赔。 |
+
+## 重疾险的工作重点
+
+重疾险不要被病名带着走。条款里真正起作用的是疾病定义。
+
+| 维度 | 我要看什么 |
+|---|---|
+| 首次确诊日 | 和等待期、生效日、复效日对齐。 |
+| 疾病定义 | 条款要求病理、分期、手术、状态持续时间还是功能障碍。 |
+| 医院和医生 | 是否为条款认可医院和专科医生。 |
+| 证明材料 | 病理、影像、血液检验、手术记录、出院小结。 |
+| 已赔责任 | 轻症、中症、重疾、身故、豁免之间是否有互斥或终止。 |
+
+## 为什么公司不能“都赔”
+
+保险不是慈善，也不是客户交了保费就所有损失都赔。公司卖的是被条款定义过、被定价过的风险。核保负责把不适合进入风险池的风险挡住或重新定价；核赔负责按合同把该赔的赔准，把不属于合同的部分解释清楚。

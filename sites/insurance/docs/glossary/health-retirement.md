@@ -1,46 +1,38 @@
-# Health, Retirement & Care
+# 健康养老服务
 
-These terms are especially useful for health insurance, elderly care and retirement business.
+泰康的特点之一是把保险、医疗、养老、健康管理放在一起看。对我来说要分清：哪些是保险合同责任，哪些是服务权益，哪些只是销售和客户经营场景。
 
-| English Term | 中文含义 | How To Understand | Typical Usage |
-|---|---|---|---|
-| Health Management | 健康管理 | Services that help customers monitor and improve health. | Value-added services and customer engagement. |
-| Wellness Program | 健康促进计划 | Programs encouraging healthier behavior. | Corporate benefits, customer loyalty. |
-| Preventive Care | 预防性医疗 | Services aimed at early detection and prevention. | Health plans and medical networks. |
-| Physical Examination | 体检 | Medical checkup used for health management or underwriting. | Underwriting requirements and wellness services. |
-| Chronic Disease | 慢性病 | Long-lasting disease requiring ongoing management. | Health underwriting and claims. |
-| Pre-Existing Condition | 既往症 | A condition existing before policy purchase. | Medical insurance exclusions and underwriting. |
-| Comorbidity | 合并症 | Two or more diseases existing together. | Claims review and medical underwriting. |
-| Diagnosis | 诊断 | A doctor's identification of disease. | Critical illness and medical claims. |
-| Pathology Report | 病理报告 | Laboratory report confirming tissue diagnosis. | Cancer and critical illness claims. |
-| Hospitalization | 住院 | Admission to a hospital for treatment. | Medical expense claims. |
-| Day Surgery | 日间手术 | Surgery completed without overnight stay. | Medical product coverage. |
-| Intensive Care Unit | 重症监护室 | Hospital unit for severe conditions. | Hospital claims, severe illness cases. |
-| Rehabilitation | 康复治疗 | Treatment to restore function after illness or injury. | Medical benefits and long-term care. |
-| Nursing Care | 护理服务 | Assistance with medical or daily living needs. | Long-term care products and elder care. |
-| Activities of Daily Living | 日常生活活动能力 | Basic functions such as eating, bathing and dressing. | Long-term care benefit assessment. |
-| Dependency | 依赖状态 | Need for assistance due to loss of function. | Long-term care claim trigger. |
-| Disability Assessment | 失能评估 | Evaluation of functional impairment. | Care insurance and disability claims. |
-| Long-Term Care Facility | 长期照护机构 | Institution providing ongoing care. | Elderly care ecosystem and service planning. |
-| Senior Living Community | 养老社区 | Residential community for older adults. | Retirement services and customer planning. |
-| Continuing Care Retirement Community | 持续照料退休社区 | Community offering independent living, assisted living and nursing care. | High-end retirement service explanation. |
-| Assisted Living | 协助生活 | Housing with support for daily activities. | Elderly care service level. |
-| Memory Care | 认知症照护 | Specialized care for dementia or cognitive decline. | Senior living and nursing service design. |
-| Palliative Care | 姑息治疗 | Care focused on comfort and quality of life. | Serious illness and elder care. |
-| Hospice Care | 临终关怀 | End-of-life care for terminal illness. | Medical and care service discussion. |
-| Longevity Risk | 长寿风险 | Risk of outliving one's savings. | Pension annuity and retirement planning. |
-| Retirement Planning | 退休规划 | Arranging future income, care and assets. | Financial advisory and pension sales. |
-| Retirement Income | 退休收入 | Cash flow available after retirement. | Annuity design and customer planning. |
-| Pension Fund | 养老金基金 | Assets accumulated to provide retirement benefits. | Pension business and investment management. |
-| Accumulation Period | 积累期 | Time when premiums or contributions build value. | Annuity and pension products. |
-| Payout Period | 领取期 | Time when benefits are paid out. | Retirement income explanation. |
-| Guaranteed Payout Period | 保证领取期 | Minimum period during which payments are guaranteed. | Pension annuity product explanation. |
-| Life Annuity | 终身年金 | Annuity that pays for the annuitant's lifetime. | Longevity risk protection. |
-| Joint Life Annuity | 联生年金 | Annuity based on two lives. | Spousal retirement planning. |
-| Beneficiary Continuation | 受益人继续领取 | Remaining benefits continue to beneficiary under rules. | Guaranteed annuity payouts. |
-| Elderly Care Ecosystem | 养老生态 | Insurance plus medical, care and community services. | Taikang-style health and retirement business. |
-| Integrated Healthcare | 医养结合 | Coordination of medical services and care services. | Senior community and health service planning. |
-| Preferred Provider Network | 优选医疗网络 | Contracted providers offering services to insured members. | Medical insurance and health management. |
-| Direct Billing | 直付服务 | Insurer pays provider directly instead of customer paying first. | High-end medical plans and hospital networks. |
-| Second Medical Opinion | 第二诊疗意见 | Review of diagnosis or treatment by another expert. | Health services and severe disease support. |
-| Case Management | 个案管理 | Coordinated support for complex medical cases. | Serious illness claims and health services. |
+## 健康管理
+
+| 概念 | 是干什么的 | 客户为什么关心 | 公司为什么关心 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 健康管理 | 体检、随访、慢病管理、健康咨询等服务。 | 买保险不只是赔钱，也希望平时有人管健康。 | 提升客户黏性，降低长期健康风险。 | 先分清是服务权益还是保险责任，服务不能直接当赔付依据。 |
+| 体检 | 发现健康异常，也可作为核保材料。 | 早发现疾病，投保时也可能被要求体检。 | 帮助风险识别。 | 核保看异常指标、复查结果；核赔看是否提示投保前疾病。 |
+| 慢性病 | 长期存在、需要持续管理的疾病。 | 影响能不能买医疗/重疾/寿险。 | 慢病会改变发病率和赔付率。 | 看病程、控制情况、并发症、用药和复查。 |
+| 既往症 | 投保前已经存在的疾病、症状或异常。 | 可能影响理赔。 | 防止带病投保和逆选择。 | 医疗险核赔重点看首次症状、首次就诊、检查异常时间。 |
+| 合并症 | 多种疾病同时存在。 | 治疗更复杂、费用更高。 | 赔付风险更高。 | 不能只看主诊断，要看合并症是否影响治疗和费用。 |
+
+## 医疗服务
+
+| 概念 | 是干什么的 | 客户为什么关心 | 公司为什么关心 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 住院 | 正式办理入院并接受治疗。 | 医疗险最常见赔付场景。 | 住院费用高，审核量大。 | 看入出院记录、住院天数、病案首页、是否挂床。 |
+| 日间手术 | 不过夜或短时完成的手术。 | 方便客户，也可能在责任内。 | 可降低住院资源占用，但条款要清楚。 | 看条款是否覆盖门诊手术/日间手术。 |
+| 康复治疗 | 功能恢复训练和治疗。 | 出院后仍有康复需求。 | 容易和疗养、非必要治疗产生边界。 | 看条款是否排除康复疗养，治疗是否医学必要。 |
+| 特药 | 指定高价药、创新药或肿瘤用药。 | 大额自费药压力大。 | 风险集中，必须用药品目录和适应症控制。 | 看药品目录、处方、适应症、购药渠道、发票。 |
+| 第二诊疗意见 | 对重大疾病诊断或治疗方案再评估。 | 帮客户减少误诊和选择困难。 | 增强服务价值。 | 通常是服务，不等于理赔结论。 |
+| 直付服务 | 公司直接与医院或服务方结算。 | 客户少垫钱。 | 提升体验但增加实时风控要求。 | 看授权、医院网络、预授权、费用明细和结算数据。 |
+
+## 养老和长期照护
+
+| 概念 | 是干什么的 | 客户为什么关心 | 公司为什么关心 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 年金领取 | 到约定时间按期领钱。 | 解决养老现金流。 | 长期负债管理和资金运用。 | 看领取年龄、频率、保证领取、身故后处理。 |
+| 长寿风险 | 活得比预期久，钱不够花。 | 养老规划核心风险。 | 年金产品的价值来源之一。 | 理解年金不是医疗报销，而是现金流安排。 |
+| 养老社区 | 提供居住、护理、康复、社交等服务。 | 解决养老生活质量和照护问题。 | 和寿险、年金、医养生态联动。 | 分清入住资格、服务权益和保险责任。 |
+| 长期护理 | 失能后长期照护。 | 老年或疾病后需要人照顾。 | 评估和持续给付风险高。 | 看 ADL、失能等级、评估机构、等待给付期。 |
+| 日常生活活动能力 | 吃饭、穿衣、洗澡、移动等基本能力。 | 是否达到护理给付条件。 | 让失能判断更客观。 | 材料要能证明功能受限，不只看疾病名称。 |
+
+## 我自己的理解
+
+健康养老服务能提高客户体验，但核保核赔时不能把“服务承诺”和“合同赔付责任”混在一起。客户会从体验角度提问，公司要从产品边界和成本角度回答，我要做的是把每个问题落到条款、材料和系统记录上。

@@ -1,27 +1,70 @@
-# Quick Review
+# 速查复习
 
-This page groups the most useful English words for fast memorization before meetings, product training or document reading.
+这页不是英文单词表，而是实习前后快速过脑子的清单。系统里可能会出现英文缩写，但我的理解要落在中文业务动作上。
 
-## Must-Know Contract Words
+## 双核岗位一句话
 
-Policyholder, insured, beneficiary, insurer, policy, coverage, premium, sum insured, policy term, premium payment term, exclusion, waiting period, cash value, surrender, lapse, reinstatement.
+| 岗位 | 核心问题 | 我看什么 |
+|---|---|---|
+| 核保 | 这个风险能不能承保，按什么条件承保？ | 健康告知、职业、财务、既往病史、体检、问卷、保额、产品规则。 |
+| 核赔 | 这个事故能不能赔，能赔多少，证据够不够？ | 保单状态、出险时间、责任范围、免责、病历、发票、清单、医保结算、理算规则。 |
 
-## Product Words
+## 读条款先看这些
 
-Term life, whole life, increasing whole life, endowment insurance, annuity, participating policy, universal life, critical illness insurance, medical insurance, accident insurance, long-term care insurance, pension annuity.
+1. 合同当事人：投保人、被保险人、受益人、保险公司。
+2. 保险期间：生效日、等待期、宽限期、复效、终止。
+3. 保险责任：到底保什么，触发条件是什么。
+4. 责任免除：哪些情况不赔。
+5. 理赔材料：申请时要交什么证明。
+6. 给付或报销规则：保额、免赔额、赔付比例、分项限额、年度限额。
+7. 特别约定：核保留下的除外、加费、职业限制等。
 
-## Underwriting And Claims Words
+## 客户为什么买
 
-Application, proposal form, health declaration, underwriting, standard risk, substandard risk, extra premium, exclusion rider, postponement, decline, claim, claim notification, claim assessment, proof of loss, settlement, denial.
+| 险种 | 客户需求 |
+|---|---|
+| 医疗险 | 担心住院、手术、特药等大额医疗费用。 |
+| 百万医疗 | 用较低保费撬动较高医疗额度，主要防大病大额费用。 |
+| 重疾险 | 患重大疾病后不只是报销医疗费，还需要收入补偿、康复费用和家庭现金流。 |
+| 寿险 | 防止家庭经济支柱身故后，房贷、子女、父母赡养无人承担。 |
+| 年金险 | 把现在的钱安排成未来稳定现金流，常用于养老、教育、长期规划。 |
+| 增额终身寿 | 兼顾身故保障、现金价值和长期资金安排。 |
 
-## Operations And Business Words
+## 公司为什么卖
 
-New business, renewal premium, persistency ratio, surrender rate, claims ratio, loss ratio, embedded value, solvency, reserves, commission, bancassurance, agency channel, compliance, suitability, anti-money laundering.
+| 视角 | 理解 |
+|---|---|
+| 风险池 | 大量客户缴保费，共同分散少数人的大额风险。 |
+| 产品分层 | 医疗、重疾、寿险、年金解决不同需求，定价和风险完全不同。 |
+| 核保 | 把风险分层，防止逆选择，决定标准承保、加费、除外、延期或拒保。 |
+| 核赔 | 准确履约，控制不属于合同责任的赔付，维护赔付率和客户信任。 |
+| 服务 | 健保通、直赔、快赔提升客户体验，但也要求更强的系统和风控。 |
 
-## Practical Sentence Patterns
+## 核保时要警觉
 
-- The policyholder pays the premium, while the insured is the person whose life or health is covered.
-- The waiting period limits claims made shortly after policy inception.
-- The claim was declined because the event fell under an exclusion.
-- The policy has accumulated cash value and may be eligible for a policy loan.
-- The annuity provides regular income during retirement.
+- 健康告知是否完整，是否有投保前已存在症状、检查异常、慢病、手术史。
+- 保额是否和年龄、收入、职业、家庭责任匹配。
+- 职业类别是否影响意外、寿险或医疗风险。
+- 最近就诊、体检异常、住院史是否需要补充病历、检查报告或问卷。
+- 核保结论有没有留下加费、除外、延期、拒保、特别约定。
+
+## 核赔时要警觉
+
+- 出险日是否在保险期间内，疾病是否过等待期。
+- 医院是否符合条款定义，是否为认可医院或健保通合作医院。
+- 诊断证明、病历、检查报告、发票、费用清单、医保结算单是否互相印证。
+- 费用是否合理且必要，是否属于责任范围，是否超过分项限额或年度限额。
+- 是否已经由医保、公费医疗、第三方责任方或其他商业保险补偿。
+- 是否涉及既往症、未如实告知、免责事项、重复理赔、异常住院或票据风险。
+
+## 系统里常见缩写
+
+| 缩写 | 中文 | 记法 |
+|---|---|---|
+| UW | 核保 | Underwriting，投保前风险审核。 |
+| NB | 新业务 | New Business，新单从投保到承保。 |
+| IF | 有效保单 | In Force，理赔首先看保单是不是有效。 |
+| POS | 保全服务 | Policy Owner Service，变更、贷款、退保等。 |
+| CI | 重大疾病 | Critical Illness，看疾病定义和证明材料。 |
+| TAT | 处理时效 | Turnaround Time，运营常看。 |
+| SLA | 服务承诺 | Service Level Agreement，和时效、服务质量有关。 |

@@ -1,49 +1,76 @@
-# Underwriting & Claims
+# 核保与核赔
 
-These terms are common in application review, medical assessment, claims communication and dispute handling.
+这是这个库的主线。我的岗位是“双核”：**核保看投保前的风险，核赔看出险后的责任和金额**。两边都不是机械看材料，而是在合同、医学、客户事实和公司规则之间做判断。
 
-| English Term | 中文含义 | How To Understand | Typical Usage |
-|---|---|---|---|
-| Underwriting | 核保 | Assessing risk before accepting insurance. | New business, health review, pricing. |
-| Medical Underwriting | 医务核保 | Underwriting based on medical information. | Health and life insurance applications. |
-| Financial Underwriting | 财务核保 | Checking if requested coverage matches financial capacity. | High sum insured life insurance. |
-| Occupational Underwriting | 职业核保 | Assessing risk based on occupation. | Accident and life insurance. |
-| Proposal Form | 投保单 | Application document for insurance. | Sales and new business submission. |
-| Health Declaration | 健康告知 | Applicant's answers about health conditions. | Medical underwriting and dispute review. |
-| Medical Questionnaire | 健康问卷 | More detailed health information form. | Follow-up underwriting requirements. |
-| Attending Physician Statement | 主治医生报告 | Doctor's report about the applicant or claimant. | Medical underwriting and claims investigation. |
-| Medical Examination | 体检核保 | Examination required before underwriting decision. | High coverage or older applicants. |
-| Lab Test | 实验室检查 | Blood, urine or other tests used for assessment. | Underwriting and claims verification. |
-| Standard Risk | 标准体 | Risk accepted at normal premium and terms. | Underwriting result. |
-| Preferred Risk | 优选体 | Lower-than-average risk accepted on favorable terms. | Some life insurance pricing systems. |
-| Substandard Risk | 次标准体 | Higher risk requiring special terms. | Underwriting decision. |
-| Extra Premium | 加费 | Additional premium charged for higher risk. | Chronic conditions, occupation risks. |
-| Exclusion Rider | 除外责任附加批注 | Contract clause excluding a specific condition or body part. | Underwriting result and claims screening. |
-| Loading | 风险加费 | Additional charge added to base premium. | Pricing and underwriting decision. |
-| Postponement | 延期承保 | Decision delayed until more information or time passes. | Recent surgery, abnormal test result. |
-| Decline | 拒保 | Insurer refuses to accept the application. | High-risk underwriting conclusion. |
-| Counteroffer | 核保反要约 | Insurer offers different terms than applied for. | Customer acceptance after underwriting. |
-| Evidence of Insurability | 可保性证明 | Documents showing the applicant can be insured. | Group insurance and reinstatement. |
-| Claims | 理赔 | Process of reviewing and paying valid insurance benefits. | Claims department and customer service. |
-| Claimant | 索赔申请人 | Person who files a claim. | Claims forms and settlement communication. |
-| Claim Notification | 出险报案 | Informing the insurer of a covered event. | First step of claims process. |
-| Proof of Loss | 损失证明 | Documents proving the loss or event. | Claims assessment. |
-| Claim Assessment | 理赔审核 | Determining whether and how much to pay. | Claims workflow. |
-| Claim Settlement | 理赔结案 | Finalizing payment or decision. | Claims operation and reporting. |
-| Benefit Payment | 保险金支付 | Actual transfer of claim benefit. | Finance and claims settlement. |
-| Claim Denial | 拒赔 | Refusal to pay a claim. | Exclusion, non-disclosure, no coverage. |
-| Partial Payment | 部分赔付 | Paying only part of the requested claim. | Deductible, co-payment, policy limits. |
-| Deductible | 免赔额 | Amount the insured must bear before reimbursement. | Medical insurance claim calculation. |
-| Co-payment | 共付比例 | Portion of eligible expenses paid by the insured. | Medical products and claims. |
-| Co-insurance | 共同保险比例 | Shared payment between insurer and insured. | Medical claim reimbursement rules. |
-| Eligible Expense | 合理且必要费用 | Medical cost that qualifies for reimbursement. | Claims review and benefit calculation. |
-| Reasonable and Customary Charge | 合理惯常费用 | Normal charge level for similar medical services. | High-end medical claims. |
-| Policy Limit | 保险限额 | Maximum benefit payable under a policy or item. | Claims settlement and product comparison. |
-| Sub-limit | 分项限额 | Smaller limit within the total policy limit. | Outpatient, drug, room and board limits. |
-| Elimination Period | 等待给付期 | Period before disability or care benefits start. | Long-term care and disability insurance. |
-| Cause of Loss | 损失原因 | Event or condition that caused the claim. | Claims investigation. |
-| Proximate Cause | 近因 | Dominant cause leading to the loss. | Claims disputes and legal analysis. |
-| Fraud Investigation | 欺诈调查 | Review to detect false or exaggerated claims. | Claims risk control. |
-| Medical Necessity | 医疗必要性 | Treatment must be clinically necessary. | Medical claims review. |
-| Recourse | 追偿 | Recovering paid amounts from a responsible third party. | Accident and liability claims. |
-| Subrogation | 代位求偿 | Insurer steps into insured's rights after payment. | Claims recovery and legal process. |
+## 双核总览
+
+| 模块 | 它是干什么的 | 客户为什么在意 | 公司为什么在意 | 我工作时怎么看 |
+|---|---|---|---|---|
+| 核保 | 在承保前评估客户风险，决定能不能保、怎么保。 | 想知道自己能不能买、要不要加费、有没有除外。 | 防止逆选择，保证产品定价和风险池稳定。 | 先看产品规则，再看健康告知、职业、财务、保额和补充材料。 |
+| 核赔 | 在出险后判断是否属于合同责任，并计算应赔金额。 | 想尽快拿到应得赔款，知道为什么赔或不赔。 | 准确履约，控制骗赔、重复赔、超责任赔。 | 先看保单状态和条款，再看事故事实、医疗证据、费用和理算。 |
+| 核保与核赔的连接 | 核保结论会影响后续理赔，比如除外、加费、特别约定。 | 当初怎么承保，会影响现在怎么赔。 | 承保时留下的风险边界必须在理赔时兑现。 | 理赔遇到既往症、短期出险、特殊责任时，要回看投保和核保记录。 |
+
+## 核保：投保前把风险分层
+
+核保不是“能拦就拦”，而是把客户放到合适的风险层级里。标准体正常承保，风险偏高但可控时可以加费或除外；风险暂时不清楚时延期；明显超过公司承保范围时拒保。
+
+| 关注点 | 是什么 | 客户侧意义 | 公司侧意义 | 我的检查点 |
+|---|---|---|---|---|
+| 健康告知 | 客户按投保页面或问卷回答健康情况。 | 影响能不能买、后续会不会因为未告知产生纠纷。 | 识别带病投保和逆选择。 | 看告知内容是否覆盖疾病史、住院史、检查异常、用药、手术、体检。 |
+| 医务核保 | 根据病历、检查、体检、问卷判断健康风险。 | 慢病、结节、肿瘤史等可能影响承保。 | 控制死亡、重疾、医疗赔付概率。 | 把疾病名称、时间、治疗结果、复查情况、并发症串起来。 |
+| 职业核保 | 判断职业危险程度。 | 高危职业可能影响意外险、寿险、医疗险。 | 职业风险会改变事故概率和赔付率。 | 看职业类别、是否高空/驾驶/化工/矿业/危险作业。 |
+| 财务核保 | 判断保额是否和收入、资产、家庭责任匹配。 | 高保额不一定能直接买到。 | 防止道德风险和超额投保。 | 看收入证明、资产、负债、已有保额、投保目的。 |
+| 保额与产品组合 | 客户买多少、买哪些险种。 | 决定保障够不够。 | 决定风险暴露和产品经营结果。 | 看同一客户多张保单、主险附加险、保障责任是否叠加异常。 |
+
+## 核保结论怎么理解
+
+| 结论 | 含义 | 对客户 | 对公司 | 对后续理赔 |
+|---|---|---|---|---|
+| 标准体承保 | 正常保费、正常责任。 | 买到完整保障。 | 风险落在定价预期内。 | 理赔按普通条款看。 |
+| 加费承保 | 风险高一些，用更高保费覆盖。 | 能买，但贵。 | 用价格补偿额外风险。 | 一般不影响责任范围，但要确认加费合同有效。 |
+| 除外承保 | 某疾病、部位或责任不保。 | 买到部分保障。 | 把已知高风险从责任里排除。 | 理赔必须看事故是否落入除外项目。 |
+| 延期承保 | 暂时不决定，等病情或材料更明确。 | 需要等待或补材料。 | 避免在风险不明时承保。 | 延期期间通常没有对应新保障。 |
+| 拒保 | 风险超过承保规则。 | 不能买该产品或该责任。 | 保护风险池。 | 无合同则无理赔，已有合同另看具体保单。 |
+
+## 核赔：出险后按合同和证据判断
+
+核赔的核心是“合同责任 + 事实证据 + 金额理算”。对客户来说，理赔是买保险最关键的时刻；对公司来说，理赔是兑现承诺也是风险控制。
+
+| 环节 | 是干什么的 | 客户关心 | 公司关心 | 我的检查点 |
+|---|---|---|---|---|
+| 报案 | 客户告知公司发生事故。 | 能不能受理、需要交什么。 | 及时掌握出险事实，避免信息缺失。 | 出险人、保单号、事故时间、就医医院、申请责任。 |
+| 立案 | 把申请转成系统案件。 | 案件开始处理。 | 案件编号、责任类型、材料路径清楚。 | 身份、保单、事故、材料四件事是否匹配。 |
+| 材料审核 | 判断证明材料是否完整可信。 | 缺什么材料、为什么补件。 | 防止错赔和骗赔。 | 病历、诊断、发票、清单、医保结算单、授权、身份证明。 |
+| 责任审核 | 判断是否属于保险责任。 | 为什么能赔或不能赔。 | 按条款履约，避免超责任赔付。 | 保险期间、等待期、责任范围、免责、特别约定。 |
+| 医疗审核 | 判断治疗和费用是否合理必要。 | 哪些费用能报。 | 控制过度医疗和不合理费用。 | 诊断、医嘱、治疗项目、药品、住院天数、医院等级。 |
+| 理算 | 按条款计算应赔金额。 | 最后赔多少。 | 赔付准确、可复核。 | 免赔额、比例、限额、已赔金额、医保/商保/第三方补偿。 |
+| 结案 | 赔付、拒付、协议处理或继续调查。 | 结果和到账。 | 留痕、合规、可解释。 | 结论文字是否对应条款和证据。 |
+
+## 医疗险核赔最常见的判断顺序
+
+1. 保单是否有效：出险日在不在保险期间，是否欠费、失效、复效、宽限期。
+2. 等待期是否已过：疾病类尤其重要，意外通常另看条款。
+3. 责任是否覆盖：住院、门急诊、特殊门诊、特药、住院前后门急诊是不是在保障内。
+4. 医院是否符合：是否二级及以上、公立医院普通部、指定医院、健保通合作医院等。
+5. 事故是否免责：既往症、先天性疾病、遗传性疾病、康复疗养、美容牙科、酒驾违法等。
+6. 费用是否合理必要：治疗和诊断是否匹配，费用清单是否有异常。
+7. 金额怎么扣：医保、公费医疗、第三方责任、其他商保、免赔额、比例、分项限额、年度限额。
+
+## 重疾险和医疗险不要混
+
+| 对比 | 重疾险 | 医疗险 |
+|---|---|---|
+| 赔付性质 | 给付型，达到疾病定义后按保额或约定比例赔。 | 报销/补偿型，围绕实际合理医疗费用赔。 |
+| 客户为什么买 | 患大病后补收入损失、康复费用、家庭现金流。 | 降低住院、手术、特药等医疗支出压力。 |
+| 公司为什么卖 | 用明确疾病定义控制触发条件。 | 用免赔额、比例、限额、医院范围控制费用风险。 |
+| 我怎么看 | 不只看诊断名称，要对条款疾病定义、病理、手术、分期、状态。 | 不只看发票金额，要看责任范围、医保结算、合理必要、已获补偿。 |
+
+## 我自己的工作理解
+
+核保像是在合同开始前回答：“这个人进入风险池会不会破坏公平？”核赔像是在合同发生作用时回答：“这个事故是不是当初承诺要承担的风险？”
+
+所以我复盘时要始终把三个东西连起来：
+
+- **条款**：公司到底承诺了什么，又明确排除了什么。
+- **事实**：客户投保时和出险时真实发生了什么。
+- **证据**：系统记录、病历、票据、结算单、核保结论能不能支持判断。
