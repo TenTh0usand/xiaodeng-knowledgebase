@@ -31,6 +31,8 @@ importers:
 
   sites/fun: {}
 
+  sites/insurance: {}
+
   sites/leisure: {}
 
   sites/life: {}

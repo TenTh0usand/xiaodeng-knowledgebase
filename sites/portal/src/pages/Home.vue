@@ -10,6 +10,7 @@
         <a href="/work/">工作篇</a>
         <a href="/fun/">游戏区</a>
         <a href="/leisure/">娱乐休闲区</a>
+        <a href="/insurance/">保险实习库</a>
       </nav>
     </header>
 
@@ -18,7 +19,7 @@
         <div class="hero-copy">
           <h1>把个人理解拆成几座能长期维护的知识库</h1>
           <p>
-            生活、工作、游戏和娱乐休闲各自独立成站，首页只负责清晰入口和精选跳转。
+            生活、工作、游戏、娱乐休闲和保险实习各自独立成站，首页只负责清晰入口和精选跳转。
             以后新增领域时，也能像搭积木一样接到同一个总站。
           </p>
           <div class="hero-actions">
@@ -53,11 +54,15 @@
               <strong>/leisure</strong>
             </a>
           </div>
+          <a class="map-card map-card-wide" href="/insurance/">
+            <span class="map-label">Insurance</span>
+            <strong>/insurance</strong>
+          </a>
         </div>
       </section>
 
       <section class="section-head" id="libraries">
-        <h2>四个入口，四种用途</h2>
+        <h2>五个入口，五种用途</h2>
         <p>每个分类都是独立的 VitePress 文档站，保留搜索、侧边栏、双语入口和可持续扩写的目录。</p>
       </section>
 
@@ -81,10 +86,10 @@
 
       <section class="cta">
         <div>
-          <h2>先从正在整理的游戏区开始</h2>
-          <p>Aim、CS2、Valorant、Apex、L4D2 会逐步沉淀设置、训练、复盘和摘录。</p>
+          <h2>现在也可以从保险实习库开始</h2>
+          <p>保险英文术语、理赔笔记和速记清单已经独立成站，适合实习时快速查词和复盘。</p>
         </div>
-        <a class="button button-primary" href="/fun/">进入游戏区</a>
+        <a class="button button-primary" href="/insurance/">进入保险实习库</a>
       </section>
     </main>
   </div>
@@ -126,6 +131,14 @@ const sections = [
     description: '收藏片单、摸鱼网站、播客音乐和未来的电影、影评内容。',
     highlights: ['片单收藏', '摸鱼网站', '播客音乐'],
   },
+  {
+    href: '/insurance/',
+    icon: '05',
+    eyebrow: 'Insurance',
+    title: '保险实习库',
+    description: '整理保险英文术语、理赔岗位笔记、产品条款和速记复习材料。',
+    highlights: ['Insurance Glossary', 'Claims Notes', 'Quick Review'],
+  },
 ]
 
 const features = [
@@ -142,7 +155,7 @@ const features = [
   {
     icon: 'N',
     title: '清晰路径',
-    description: '访问规则固定为 /life、/work、/fun、/leisure，后续扩展更好记。',
+    description: '访问规则固定为 /life、/work、/fun、/leisure、/insurance，后续扩展更好记。',
   },
 ]
 </script>

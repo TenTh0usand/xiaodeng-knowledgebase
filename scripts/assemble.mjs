@@ -28,6 +28,10 @@ const targets = [
     from: path.join(root, 'sites/leisure/docs/.vitepress/dist'),
     to: path.join(outputDir, 'leisure'),
   },
+  {
+    from: path.join(root, 'sites/insurance/docs/.vitepress/dist'),
+    to: path.join(outputDir, 'insurance'),
+  },
 ]
 
 await fs.remove(outputDir)
@@ -48,6 +52,7 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
   <url><loc>/work/</loc></url>
   <url><loc>/fun/</loc></url>
   <url><loc>/leisure/</loc></url>
+  <url><loc>/insurance/</loc></url>
 </urlset>
 `
 
