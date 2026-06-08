@@ -18,7 +18,7 @@ const sidebar = [
     text: '双核实习笔记',
     items: [
       { text: '手写笔记逐页复盘', link: '/claims-notes/' },
-      { text: '泰康官方条款对照', link: '/claims-notes/taikang-clauses' },
+      { text: '泰康官方条款精读', link: '/claims-notes/taikang-clauses' },
       { text: '险种与条款阅读', link: '/claims-notes/product-clauses' },
       { text: '保单生命周期', link: '/claims-notes/policy-lifecycle' },
       { text: '理赔平台与健保通', link: '/claims-notes/claims-platforms' },
@@ -32,7 +32,7 @@ const nav = [
   { text: '首页', link: '/' },
   { text: '基础', link: '/glossary/fundamentals' },
   { text: '双核', link: '/glossary/underwriting-claims' },
-  { text: '条款对照', link: '/claims-notes/taikang-clauses' },
+  { text: '条款精读', link: '/claims-notes/taikang-clauses' },
   { text: '速查', link: '/quick-review' },
 ]
 
